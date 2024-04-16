@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinti Agrawal</h1>
 <h3 align="center">Final Year Computer Science Student | Tech Enthusiast Eager to Collaborate and Learn</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vintiagrawal" alt="vintiagrawal" /></a> </p>
-
 - 🔭 I’m currently working at [G2](https://www.g2.com/)
 
 - 📫 How to reach me - **vintiagrawal222@gmail.com**
