@@ -2,11 +2,7 @@
 <h3 align="center">Final Year Computer Science Student | Tech Enthusiast Eager to Collaborate and Learn</h3>
 
 - 🔭 I’m currently working at [G2](https://www.g2.com/)
-
 - 📫 How to reach me - **vintiagrawal222@gmail.com**
-
-- 📄 My Resume - [VintiAgrawal](https://drive.google.com/file/d/1cJUHQxIY5KfT2LN0smMDp5vy3g0rizGF/view?usp=sharing)
-
 - ⚡ Fun fact - **I think I am funny :|**
 
 <h3 align="left">Connect with me:</h3>
